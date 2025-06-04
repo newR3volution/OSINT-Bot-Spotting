@@ -1,5 +1,7 @@
 # OSINT-Bot-Spotting
 
+I have run into a lot of bot activity lately on various social media and I am certain you have as well. Here I will discuss the various types of bots you could run into in the wild and what they can be used for in OSINT.
+
 Common Types of Social Media Bots (and How to Identify Them)
 
 1. Amplifier Bots
